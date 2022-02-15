@@ -2,14 +2,12 @@
 
 <p align="center">I'm a <strong>Web Developer</strong> mainly frontend.</p>
 
-<p>I love to learn new things.<p/>
-<div>
-<p>I love animals especially puppies.<p/> <img src="https://media.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif" width="50px"/>
-</div>
+I love to learn new things. <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="25px"/>
+
+I love animals especially puppies. <img src="https://media.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif" width="25px"/>
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-alejober&show_icons=true&theme=radical" alt="Daniel Alejo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=daniel-alejober&show_icons=true&theme=radical" alt="Daniel Alejo"/>
 
 
 
