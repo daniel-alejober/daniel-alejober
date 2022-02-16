@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="23px"/>  &nbsp;  I like to explore new trends and learn new technologies.\
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="23px"/>  &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
-<img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="25px"/> &nbsp;Feel free to review some of my work so we can collaborate and improve it.\
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25px"/> &nbsp;Feel free to review some of my work so we can collaborate and improve it.\
 <img src="https://media.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif" width="23px"/>  &nbsp; I love animals especially puppies.
 <br>
 <p>
