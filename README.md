@@ -1,12 +1,12 @@
-# &nbsp; Hello World I'm Daniel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+# &nbsp; Hello World I'm Daniel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/>
 
 <p>Hey there, welcome!</br>
-  I'm Daniel, Front End developer from <img src="https://media.giphy.com/media/ZB8XaD4SAR4AZ0Opm4/giphy.gif" width="20px" height="10px"/> <b> México City, México</b>.</p> 
+  I'm Daniel, Front End developer from <img src="https://media.giphy.com/media/ZB8XaD4SAR4AZ0Opm4/giphy.gif" width="20px" height="20px"/> <b> México City, México</b>.</p> 
 
-<img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="23px" height="10px"/>  &nbsp;  I like to explore new trends and learn new technologies.\
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="23px" height="10px"/>  &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25px" height="10px" /> &nbsp;Feel free to review some of my work so we can collaborate and improve it.\
-<img src="https://media.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif" width="10px" height="10px" /> &nbsp; I love animals especially puppies.
+<img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="23px" height="20px"/>  &nbsp;  I like to explore new trends and learn new technologies.\
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="23px" height="20px"/>  &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25px" height="20px" /> &nbsp;Feel free to review some of my work so we can collaborate and improve it.\
+<img src="https://media.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif" width="20px" height="20px" /> &nbsp; I love animals especially puppies.
 <br>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
