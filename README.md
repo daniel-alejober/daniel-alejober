@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="23px"/>  &nbsp;  I like to explore new trends and learn new technologies.\
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="23px"/>  &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25px"/> &nbsp;Feel free to review some of my work so we can collaborate and improve it.\
-<iframe src="https://giphy.com/embed/lv9hJHsMSLMYRnDgls" width="348" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>&nbsp; I love animals especially puppies.
+<div style="width:100%;height:0;padding-bottom:138%;position:relative;"><iframe src="https://giphy.com/embed/lv9hJHsMSLMYRnDgls" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/ai-aisforai-aiandaiko-lv9hJHsMSLMYRnDgls">via GIPHY</a></p>&nbsp; I love animals especially puppies.
 <br>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
